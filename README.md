@@ -1,1 +1,5 @@
 # Baby_Product_Online_Shoping_System
+
+Through the system, users can look up the products they are interested in. The system can also recommend popular products. New users must first register if they want to purchase goods, they need to fill out their own contact information and home address for the purpose to facilitate the merchant to send goods. Through this system, administrator can mange commodity users and products. The administrator fills in the basic information of the commodity, classifies the commodity, and the administrator is responsible for putting and unloading the commodities, and sets whether the commodity of popular. If a user purchase a product, the administrator can view the user’s purchase history.
+
+The system is build based on the SSH(Struts+Spring+Hibernate) integration framework. Struts implements the separation of MVC as the basic framework of the integrated framework, and Hibernate implements the mapping Java classes and databases tables in an object oriented way, Spring implements the basic Java objects, and manages Struts and Hibernate.
